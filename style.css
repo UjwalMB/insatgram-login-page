@@ -1,0 +1,80 @@
+*{
+    font-family: Arial,sans-serif;
+   }
+   .bg-conatiner{
+       height: 100vh;
+       background-size: cover;
+       background-color: black;
+   }
+   /* Main card */
+   .card-insta{
+       background-color: transparent;
+       border-radius: 1px;
+       border: solid 0.5px white;
+       width: 350px;
+       height: 400px;
+   }
+   /* 2nd card */
+   .card-2nd{
+       background-color: transparent;
+       border-radius: 1px;
+       border: solid 0.5px white;
+       width: 350px;
+       height: 63px;
+   }
+   /* Instagram text logo */
+   .logo{
+       background-position: 0px 0px; 
+       background-size: auto; 
+       width: 175px; 
+       height: 70px;
+       background-repeat: no-repeat; 
+       display: inline-block;
+       background-size: cover;
+       
+   }
+   .inp-txt{
+       width: 258px;
+       height: 36px;
+       border-radius: 3px;
+       border-width: 2px;
+       font-size: 13px;
+       background-color: transparent;
+       border: solid 1px white;
+   
+   }
+   .btn-logo{
+       height: 30px;
+       width: 258px;
+       background-color:#1e88e5;
+       font-size: 14px;
+       border-radius: 6px;
+       border: none;
+       color: white;
+   }
+   .facebook{
+       color: #1e88e5;
+   }
+   span{
+       padding-left: 10px;
+       color: #1e88e5;
+       font-size: 13px;
+   }
+   .forgot-password{
+       font-size: 11px;
+       color: white;
+   
+   }
+   .sign-up{
+       font-size: 13px;
+       color: white;
+   }
+   .get-app{
+       font-size: 12px;
+   
+   }
+   
+   .app-store-logo{
+       width: 136px;
+       height: 40px;
+   }
